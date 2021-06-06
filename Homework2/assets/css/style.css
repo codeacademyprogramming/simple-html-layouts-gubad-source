@@ -1,0 +1,39 @@
+body{
+    background-color:darkgray;
+}
+.wrapper{
+    text-align: center;
+}
+.wrapper img{
+    width: 200px;
+    height: 310px;
+}
+.wrapper h1{
+    color: blue;
+}
+.wrapper h2{
+    color: green;
+}
+
+/* form */
+#form{
+    position: absolute;
+}
+.getform{
+    background-color: white;
+    padding: 50px;
+    border-radius: 7px;
+    width: 100%;
+    position: relative;
+    top: 10px;
+    left: 50%;
+}
+
+form .title{
+    text-align: center;
+}
+button{
+    position: relative;
+    left: 100%;
+    bottom: 30px;
+}
